@@ -32,15 +32,5 @@ printf("Ders Ortalamaniz:%.2f\n",ogrenciOrtalamasi);
 printf("Ders Gecme Durumunuz (1->Gectiniz,0->Kaldiniz):%d",ogrenciOrtalamasi>=canDegeri);
   
   
-  return 0;	
-	
-	
-	
-	
+  return 0;		
 }
-
-
-  
-  
-  return 0;
-  }
